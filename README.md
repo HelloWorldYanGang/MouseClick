@@ -1,0 +1,2 @@
+# MouseClick
+python实现的windows下模拟鼠标点击的程序
